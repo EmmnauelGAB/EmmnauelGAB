@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate Developer Full Stack</h3>
 
-- 🔭 I’m currently working on **Mapfre Look & Feel**
+- 🔭 I’m currently working on ****Praxis Iberoamerica**
 
-- 👯 I’m looking to collaborate on **Praxis Iberoamerica**
+- 👯 I’m looking to collaborate on **Oracle|Alura && Launch X**
 
 - 📫 How to reach me **emmanuelgarciabarron0@gmail.com**
 
